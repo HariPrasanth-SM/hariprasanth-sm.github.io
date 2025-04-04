@@ -1,114 +1,101 @@
-# Hari Prasanth S.M., Doctoral Researcher
+<!-- Profile Section -->
+<a id="top"></a>
 
-<img src="profile-picture.jpg" alt="Profile Picture" width="200px" style="border-radius: 50%; float: right; margin-left: 20px;"/>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <!-- Profile Picture Container (circular + cropped bottom) -->
+  <div style="width: 160px; height: 160px; overflow: hidden; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-right: 20px;">
+    <img src="images/profile_pic.JPG" alt="Profile Picture"
+         style="width: 100%; height: auto; object-fit: cover; object-position: top;">
+  </div>
 
-## Robotics Research | Aalto University, Finland
+  <!-- Text Content -->
+  <div>
+    <h1 style="margin: 0;">Hari Prasanth S.M., Doctoral Researcher</h1>
+    <h3 style="margin-top: 5px;">Robotics | Autonomous & Mobility Lab | Aalto University, Finland</h3>
+    <p style="max-width: 600px;">
+      I am a doctoral researcher in the Autonomous & Mobility Lab from the Department of Mechanical Engineering at Aalto University, 
+      specializing in robotics in industry. My work focuses on localization and computer vision, under the supervision of Prof. Risto Ojala.
+    </p>
+  </div>
+</div>
 
-I am a doctoral researcher in the Autonomous & Mobility Lab from the Department of Mechanical Engineering at Aalto University, specializing in robotics research. My work focuses on localization and computer vision, under the supervision of Prof. Risto Ojala.
-
+<!-- Navigation Links -->
 <div align="center">
   <a href="#research-focus">Research Focus</a> •
   <a href="#current-projects">Current Projects</a> •
   <a href="#academic-background">Academic Background</a> •
-  <a href="#publications--conferences">Publications</a> •
+  <a href="#publications">Publications</a> •
   <a href="#technical-expertise">Technical Expertise</a> •
-  <a href="#recent-events--blog-posts">Blog Posts</a> •
   <a href="#contact-information">Contact</a>
 </div>
 
----
+<hr />
 
 ### Research Focus
 
-My research investigates [concise description of your research question or problem you're addressing]. This work aims to [brief statement about the potential impact or application of your research].
+My research explores the integration of robotics into industrial environments to automate various processes. The goal is to develop advanced research-driven solutions that address real-world challenges faced by industries.
 
 **Research Interests:**
-- [Specific research interest]
-- [Specific research interest]
-- [Specific research interest]
+- Sensor Fusion
+- Indoor Mobile Robots 
+- Deep Learning
 
 ### Current Projects
 
-**[Primary Project Title]**
-- [Brief, technical description of the project]
-- [Key methodologies or technologies employed]
-- [Current status or milestone]
+**PFICE: A Method to Estimate Uncertainty of Scan-Matching to Enhance Indoor Robot Localization**  
+- This research aims to enable reliable localization by quantifying the uncertainty in lidar scan-matching through the comparison of solid planar features between the map and the current scan.  
+- Localization, Scan-matching, Uncertainty Estimation  
+- Preliminary results show improved accuracy in environments with dynamic objects, compared to a standard EKF-based localization system.
 
-**[Secondary Project Title]**
-- [Brief, technical description of the project]
-- [Methodologies or approaches]
+**Few-shot Object Detection Using Vision Foundation Models for Industrial Objects**  
+- This project focuses on developing an object detection system using vision foundation models for industrial objects where training data is limited.  
+- Object Detection, Foundation Models
 
 ### Academic Background
 
-**Ph.D., [Your Program]**  
-[Your University]  
-[Start Year] - Present
+**Ph.D., Mechanical Engineering**  
+Aalto University, Finland  
+2024 - Present
 
-**[Previous Degree]**  
-[Previous University]  
-[Year Completed]
+**M.Sc., Autonomous Systems**  
+Aalto University, Finland & KTH Royal Institute of Technology, Sweden  
+2024
 
-### Publications & Conferences
+**B.E, Mechatronics**  
+Thiagarajar College of Engineering, India  
+2019
 
-- [Author list including yourself]. ([Year]). [Title of paper]. *[Journal or Conference Name]*. [DOI if available]
-- [Conference presentations, posters, or talks]
+### Publications
+
+- Hari Prasanth S.M. (2024). PFICE: Positional Feature Influenced Covariance Estimation for Indoor Robot Localization. *Master's thesis*. [Link](https://urn.fi/URN:NBN:fi:aalto-202411217244)
+
 
 ### Technical Expertise
 
-**Robotics Systems & Frameworks:**
-- [Specific robotics framework, e.g., Robot Operating System (ROS)]
-- [Specific robotics simulation environment, e.g., Gazebo, PyBullet]
-- [Specific control system frameworks]
-
 **Programming & Development:**
-- Languages: [Languages you work with, e.g., Python, C++, MATLAB]
-- Libraries: [Relevant libraries, e.g., PCL, OpenCV, TensorFlow]
-- Tools: [Development tools, e.g., Git, Docker, CMake]
-
-**Hardware Experience:**
-- [Robotic platforms you've worked with]
-- [Sensor systems you're experienced with]
-- [Prototyping capabilities]
+- Languages: Python, C++
+- Libraries: PCL, OpenCV, PyTorch
+- Tools: Git, Docker
+- Framework: ROS2
 
 ### Laboratory Affiliation
 
-[Name of Your Research Lab]  
-[Department/School Name]  
-[University Name]  
-[Link to lab website]
+Autonomous and Mobility Lab  
+Department of Energy and Mechanical Engineering  
+Aalto University  
+[Webpage](https://www.aalto.fi/en/department-of-energy-and-mechanical-engineering/autonomy-mobility-lab)
 
-### Academic Service
-
-- [Any reviewer roles for conferences or journals]
-- [Teaching assistantships]
-- [Student committee positions]
-- [Workshop organization]
-
-### Recent Events & Blog Posts
-
-- [Date] [Blog Post Title](https://yourusername.github.io/blog/post-title) - [Brief description]
-- [Date] [Blog Post Title](https://yourusername.github.io/blog/post-title) - [Brief description]
-- [Date] [Blog Post Title](https://yourusername.github.io/blog/post-title) - [Brief description]
-
-*[View all posts](https://yourusername.github.io/blog)*
-
-### Research Resources
-
-- [Link to shared code repositories related to your research]
-- [Link to datasets you've published]
-- [Link to research documentation or tutorials you've created]
-- [Link to reproducible research environments]
 
 ### Contact Information
 
-- **Academic Email:** [your.email@university.edu]
-- **Research Profile:** [ORCID/Google Scholar/ResearchGate]
-- **Professional Website:** [Link to personal academic website if available]
+- **Academic Email:** hariprasanth.sm@aalto.fi
 
 ---
 
 <div align="center">
-  <a href="#your-name-phd-candidate">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </div>
 
-*This profile represents my academic and research work. For collaboration inquiries or questions about my research, please contact me via my university email.*
+
+
+*This profile represents my academic and research work. For collaboration inquiries or questions about my research, please contact me via my email.*
