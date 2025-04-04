@@ -1,10 +1,14 @@
+---
+layout: none
+title: ""
+---
 <!-- Profile Section -->
 <a id="top"></a>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <!-- Profile Picture Container (circular + cropped bottom) -->
   <div style="width: 160px; height: 160px; overflow: hidden; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-right: 20px;">
-    <img src="../images/profile_pic.JPG" alt="Profile Picture"
+    <img src="images/profile_pic.JPG" alt="Profile Picture"
          style="width: 100%; height: auto; object-fit: cover; object-position: top;">
   </div>
 
