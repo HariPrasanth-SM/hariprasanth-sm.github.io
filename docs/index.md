@@ -17,7 +17,7 @@ title: ""
     <h1 style="margin: 0;">Hari Prasanth S.M., Doctoral Researcher</h1>
     <h3 style="margin-top: 5px;">Robotics | Autonomous & Mobility Lab | Aalto University, Finland</h3>
     <p style="max-width: 600px;">
-      I am a doctoral researcher in the Autonomous & Mobility Lab from the Department of Mechanical Engineering at Aalto University, 
+      I am a first-year doctoral researcher in the Autonomous & Mobility Lab from the Department of Mechanical Engineering at Aalto University, 
       specializing in robotics in industry. My work focuses on localization and computer vision, under the supervision of Prof. Risto Ojala.
     </p>
   </div>
