@@ -1,96 +1,114 @@
-# Hi there, I'm Hari Prasanth 👋
+# Hari Prasanth S.M., Doctoral Researcher
 
-## Robotics Doctoral Researcher | Aalto University, Finland
+<img src="profile-picture.jpg" alt="Profile Picture" width="200px" style="border-radius: 50%; float: right; margin-left: 20px;"/>
 
-I'm a first-year doctoral student specializing in robotics at [Your University/Lab]. My research focuses on [brief description of your specific interest area in robotics - e.g., "human-robot interaction" or "reinforcement learning for autonomous navigation"].
+## Robotics Research | Aalto University, Finland
+
+I am a doctoral researcher in the Autonomous & Mobility Lab from the Department of Mechanical Engineering at Aalto University, specializing in robotics research. My work focuses on localization and computer vision, under the supervision of Prof. Risto Ojala.
+
+<div align="center">
+  <a href="#research-focus">Research Focus</a> •
+  <a href="#current-projects">Current Projects</a> •
+  <a href="#academic-background">Academic Background</a> •
+  <a href="#publications--conferences">Publications</a> •
+  <a href="#technical-expertise">Technical Expertise</a> •
+  <a href="#recent-events--blog-posts">Blog Posts</a> •
+  <a href="#contact-information">Contact</a>
+</div>
 
 ---
 
-### 🔬 Research Interests
+### Research Focus
 
-- **Primary Focus:** [Your main research focus, e.g., "Soft Robotics for Medical Applications"]
-- **Current Project:** [Brief description of what you're currently working on]
-- **Keywords:** Robotics, [Other relevant keywords - e.g., Computer Vision, Machine Learning, Control Systems, etc.]
+My research investigates [concise description of your research question or problem you're addressing]. This work aims to [brief statement about the potential impact or application of your research].
 
-### 🤖 Current Research Projects
+**Research Interests:**
+- [Specific research interest]
+- [Specific research interest]
+- [Specific research interest]
 
-- **[Project Name]**: [Brief description] [Link to repo if public]
-- **[Project Name]**: [Brief description] [Link to repo if public]
+### Current Projects
 
-### 📚 Publications & Preprints
+**[Primary Project Title]**
+- [Brief, technical description of the project]
+- [Key methodologies or technologies employed]
+- [Current status or milestone]
 
-*As a first-year student, this section might be brief now but will grow!*
+**[Secondary Project Title]**
+- [Brief, technical description of the project]
+- [Methodologies or approaches]
 
-- [Any publications, conference papers, or workshop presentations]
-- [Any preprints on arXiv]
+### Academic Background
 
-### 🛠️ Technical Skills
+**Ph.D., [Your Program]**  
+[Your University]  
+[Start Year] - Present
 
-#### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)
-<!-- Add or modify languages as needed -->
+**[Previous Degree]**  
+[Previous University]  
+[Year Completed]
 
-#### Robotics & ML Frameworks
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ROS&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-<!-- Add or modify frameworks as needed -->
+### Publications & Conferences
 
-#### Hardware Experience
-- [Robotic platforms you've worked with, e.g., "Boston Dynamics Spot", "TurtleBot", "Custom quadruped robot"]
-- [Sensors you're familiar with, e.g., "RGB-D cameras", "LiDAR", "Force/torque sensors"]
-- [Fabrication skills, e.g., "3D printing", "Laser cutting", "PCB design"]
+- [Author list including yourself]. ([Year]). [Title of paper]. *[Journal or Conference Name]*. [DOI if available]
+- [Conference presentations, posters, or talks]
 
-### 🎓 Education
+### Technical Expertise
 
-- **PhD in [Your Program]** | [Your University] | [Start Year] - Present
-- **[Previous Degree]** | [Previous University] | [Year] - [Year]
+**Robotics Systems & Frameworks:**
+- [Specific robotics framework, e.g., Robot Operating System (ROS)]
+- [Specific robotics simulation environment, e.g., Gazebo, PyBullet]
+- [Specific control system frameworks]
 
-### 📖 Academic Service
+**Programming & Development:**
+- Languages: [Languages you work with, e.g., Python, C++, MATLAB]
+- Libraries: [Relevant libraries, e.g., PCL, OpenCV, TensorFlow]
+- Tools: [Development tools, e.g., Git, Docker, CMake]
 
-- [Any reviewing, volunteering, or organizational roles in conferences/workshops]
+**Hardware Experience:**
+- [Robotic platforms you've worked with]
+- [Sensor systems you're experienced with]
+- [Prototyping capabilities]
+
+### Laboratory Affiliation
+
+[Name of Your Research Lab]  
+[Department/School Name]  
+[University Name]  
+[Link to lab website]
+
+### Academic Service
+
+- [Any reviewer roles for conferences or journals]
 - [Teaching assistantships]
-- [Mentoring activities]
+- [Student committee positions]
+- [Workshop organization]
 
-### 🔗 Lab Affiliation
+### Recent Events & Blog Posts
 
-- [Your Lab Name] - [Brief description or link to lab website]
-- Advisor: [Advisor's Name]
+- [Date] [Blog Post Title](https://yourusername.github.io/blog/post-title) - [Brief description]
+- [Date] [Blog Post Title](https://yourusername.github.io/blog/post-title) - [Brief description]
+- [Date] [Blog Post Title](https://yourusername.github.io/blog/post-title) - [Brief description]
 
-### 🧪 Open-Source Contributions
+*[View all posts](https://yourusername.github.io/blog)*
 
-- [Any contributions to robotics libraries or open-source projects]
-- [Any custom utilities or packages you've released]
+### Research Resources
 
-### 📊 GitHub Stats
+- [Link to shared code repositories related to your research]
+- [Link to datasets you've published]
+- [Link to research documentation or tutorials you've created]
+- [Link to reproducible research environments]
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+### Contact Information
 
-### 🌱 Current Learning Focus
-
-- [New skills or areas you're currently learning]
-- [Courses you're taking]
-- [Technologies you're exploring]
-
-### 💬 Let's Connect!
-
-- 🏫 [Your University Email]
-- 🔗 [LinkedIn Profile]
-- 🌐 [Personal Website/Portfolio]
-- 📝 [Google Scholar]
+- **Academic Email:** [your.email@university.edu]
+- **Research Profile:** [ORCID/Google Scholar/ResearchGate]
+- **Professional Website:** [Link to personal academic website if available]
 
 ---
 
-⚡ **Fun fact:** [Something interesting about yourself or your work]
+<div align="center">
+  <a href="#your-name-phd-candidate">Back to Top</a>
+</div>
 
-<!-- 
-You can add GitHub workflow badges to show your profile is actively maintained:
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername)
--->
-
-<!-- 
-For a dynamic GitHub stats card, you can use:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
+*This profile represents my academic and research work. For collaboration inquiries or questions about my research, please contact me via my university email.*
